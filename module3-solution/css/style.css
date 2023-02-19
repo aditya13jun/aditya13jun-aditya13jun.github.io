@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	border: none;
+	background-color: rgb(0, 0, 0);
+	color: #61122F;
+}
+
+body {
+	background-color: #ea4600e1;
+	color: rgb(0, 0, 0);
+}
+
+.glyphicon {
+	font-size: 30px;
+	color: navajowhite;
+}
+
+.center {
+	width: 90%;
+	background-color: grey;
+}
+
+.container {
+	background-color: rgb(230, 230, 230);
+}
+
+.text-center {
+	font-size: 30px;
+}
+
+h3 {
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: navajowhite;
+	text-align: center;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #00f594;
+}
+
+#food a{
+	color: black;
+}
+
+#food a:hover{
+	color: #ea460089;
+}
